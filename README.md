@@ -2,7 +2,7 @@
 
 ## KMeansAndRecommendationSystem
 
-Main goal of this project is to create clustering algorithm based on 3-5 features of college student, which should be used for creation of recommendation engine. Dataset for this research can be found here.
+Main goal of this project is to create clustering algorithm based on 3-5 features of college student, which should be used for creation of recommendation engine. Dataset for this research can be found [here](https://www.kaggle.com/borapajo/food-choices/version/5).
 
 Data will be analyzed to find good variables for clustering, then subsetted and cleaned.
 
