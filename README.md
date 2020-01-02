@@ -58,7 +58,7 @@ After doing this we'll check assumptions (which should be done before modeling, 
 ### Sport_Data_Analysis
 
 
-We have a histrocical dataset with data about Olympic games and participants. Based on this dataset we should provide recommendations for best sport and sportsmen. We'll do some general investigations, such as percentage of participants, who got medals, their age and body metrics density, total quantity of medals.  
+We have a historical dataset with data about Olympic games and participants. Based on this dataset we should provide recommendations for best sport and sportsmen. We'll do some general investigations, such as percentage of participants, who got medals, their age and body metrics density, total quantity of medals.  
    
 For sportsman we'll firstly investigate data, firstly checking for dependencies between males and females success. We'll be looking for dependencies between age and sport success (medals), and between body metrics, such as height and weight (converted into body mass index to be more representative). We'll get such values, as max and min, and also mean for body metrics to understand usual body constitution of male and female participants. Next, we'll assign some points (weights) to each type of medal (Gold, Silver, Bronze) and evaluate general score for each sportsmen. Based on this score we'll find the most succesfull sportsman (or sportsmen) and check his body metrics and age, whether they are in a statistically good intervals. Also we'll compare this sportsman to other participant and visualize this comparison.
    
